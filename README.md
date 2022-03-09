@@ -1,4 +1,4 @@
-## Hi, I'm seoyeon✨
+## Hi, I'm Seoyeon Han✨
 
 <!--
 **yeon55/yeon55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon55&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon55&show_icons=true&theme=swift)
 
 <br/>
 
