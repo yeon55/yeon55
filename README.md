@@ -1,4 +1,4 @@
-## Hi, I'm seoyeon👋
+## Hi, I'm seoyeon✨
 
 <!--
 **yeon55/yeon55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
