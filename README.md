@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hahan)](https://velog.io/@hahan)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hahan)](https://github.com/hahan/velog-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=moltack)
+![Anurag's GitHub Repo Card](https://github-readme-Repo Card.vercel.app/api?username=anuraghazra&theme=moltack)
